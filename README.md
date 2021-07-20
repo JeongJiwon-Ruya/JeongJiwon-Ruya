@@ -1,7 +1,5 @@
-### Hi there 👋
--my name is jeong jiwon
-
--interested in using unity
+### Hi👋
+-
 
 <!--
 **JeongJiwon-Ruya/JeongJiwon-Ruya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
